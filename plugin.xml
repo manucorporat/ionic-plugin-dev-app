@@ -22,8 +22,8 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-wkwebview-engine"
-    version="1.1.3-dev">
+    id="ionic-plugin-dev-app"
+    version="0.0.1">
     <name>Ionic Dev App Plugin</name>
     <description>Ionic Dev App Plugin</description>
     <license>Apache 2.0</license>
@@ -34,7 +34,7 @@
     <platform name="ios">
 
         <config-file target="config.xml" parent="/*">
-            <feature name="IonicE2Eautodiscovery">
+            <feature name="IonicPluginDevApp">
                 <param name="ios-package" value="CDVIonicDevApp" />
                 <param name="onload" value="true" />
             </feature>
