@@ -28,7 +28,7 @@
     <description>Ionic Dev App Plugin</description>
     <license>Apache 2.0</license>
     <keywords>dev</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-wkwebview-engine.git</repo>
+    <repo>https://github.com/manucorporat/ionic-plugin-dev-app.git</repo>
 
     <!-- ios -->
     <platform name="ios">
